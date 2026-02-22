@@ -18,7 +18,5 @@ Courses from the best universities in the world such as Stanford, MIT, and Berke
 If you intend to apply data science to the field of finance, you should know that there is a complete MBA documentation covering (finance, management, economics, risk and portfolio management, marketing, leadership ...) and for the more experienced data scientists, there is a complete set of more than 300 TB IT training courses.  
 
 In brief, it contains a little bit of everything but more of what you'll need to become a successful data scientist.
+ 😀
 
-✅ Follow this link and spread the word to the world 📢 😀
-
-🔗https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD?usp=sharing
